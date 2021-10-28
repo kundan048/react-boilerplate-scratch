@@ -5,7 +5,7 @@ class App extends Component {
         return (
             <div>
                 <h1>My React App</h1>
-                <h2>Error occured due to babel now resolved</h2>
+                <h2>Error Fixed now</h2>
             </div>
         )
     }
